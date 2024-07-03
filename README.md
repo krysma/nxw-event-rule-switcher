@@ -24,5 +24,5 @@ If you run the script, rule with comment used as an input parameter will switch 
 - General info about NX REST API: https://support.networkoptix.com/hc/en-us/articles/219573367-HTTP-REST-API
 - Standard API documentation for your server: https://${YOUR_SERVER_IP}:${PORT}/#/api-tool/main?type=1
   - For local testing, the values usually can be:
-  -   YOUR_SERVER_IP=localhost
-  -   PORT=7001
+    - YOUR_SERVER_IP=localhost
+    - PORT=7001
